@@ -1,0 +1,52 @@
+1. Netbeans
+
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, 
+but also with other languages, in particular PHP, C/C++, and HTML5.[3] It is also an 
+application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, 
+Solaris and other platforms supporting a compatible JVM.
+The NetBeans Platform allows applications to be developed from a set of modular software components called modules. 
+Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by third party developers
+The NetBeans Team actively support the product and seek feature suggestions from the wider community. 
+Every release is preceded by a time for Community testing and feedback.
+
+
+2. Eclipse
+
+This IDE is quite comprehensive and even similar to Netbeans in a variety of ways, 
+including its use of Java and plugin architecture. However, Eclipse as an IDE comes 
+in a wild variety of flavors, catering to various needs and objectives in software 
+development workflows. The Eclipse Foundation even provides a comparison page to view 
+the differences between the variants of Eclipse.
+
+
+3. Komodo
+
+Komodo is a comprehensive IDE that supports all major programming languages, providing 
+a single tool that meets your development needs across the spectrum. Whether you’re working 
+with Python, PHP, Ruby, Perl, HTML, CSS or JavaScript, Komodo provides a clean, intuitive 
+interface with advanced editing capabilities and integrated tools for the most functionality.
+
+
+4. Delphi
+
+Embarcadero Delphi is an integrated development environment (IDE) for console, 
+desktop graphical, web, and mobile applications.
+Delphi's compilers use their own Object Pascal dialect of Pascal and generate native code 
+for 32- and 64-bit Windows operating systems, as well as 32-bit Mac OS X, iOS and Android. 
+As of late 2011 support for the Linux operating system was planned by Embarcadero.[2]
+Delphi was originally developed by Borland as a rapid application development tool for Windows, 
+and as the successor of Borland Pascal. Delphi and its C++ counterpart, C++Builder, 
+shared many core components, notably the IDE and VCL, but remained separate until the release of RAD Studio 2007. 
+RAD Studio is a shared host for Delphi, C++Builder, and others.
+
+
+5. JDeveloper
+
+JDeveloper is a freeware IDE supplied by Oracle Corporation. 
+It offers features for development in Java, XML, SQL and PL/SQL, HTML, JavaScript, BPEL and PHP. 
+JDeveloper covers the full development lifecycle from design through coding, debugging, optimization and profiling to deploying.
+With JDeveloper, Oracle has aimed to simplify application development by focusing on providing a visual 
+and declarative approach to application development in addition to building an advanced coding-environment. 
+Oracle JDeveloper integrates with the Oracle Application Development Framework (Oracle ADF) - an 
+end-to-end Java EE-based framework that further simplifies application development.
